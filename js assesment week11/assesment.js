@@ -30,7 +30,7 @@
           alert("please fill in all the details!")
       }
       else{
-        alert(` You have submitted the following responses:  name:${name} , className:${className}, subject:${subject} , on this date${date}`)
+        alert(` You have submitted your responses:  name:${name} , className:${className}, subject:${subject} , on this date${date}`)
 
       }
   } 
